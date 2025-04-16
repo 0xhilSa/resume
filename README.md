@@ -13,7 +13,7 @@ pipeline, Computer Architecture(x86, ARM, RISC-V), an FPGA, or CUDA kernels. I l
 understanding each and every layer of it hardware/software and from high to low level programming.
 
 <p>
-My work often revolves around low-level programming, digital design, and making things faster, smoother and effieciently. Whether I'm writing
+My work often revolves around low-level programming, digital design, and making things faster, smoother and effiecient. Whether I'm writing
 Python for a compute library or touching low level programming (ARM assembly) on the surface level. I enjoy exploring systems that sit at the
 edge of hardware and software.
 </p>
