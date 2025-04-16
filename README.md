@@ -8,7 +8,7 @@
 </div>
 
 <p>
-I'm an Electronics-n-Communication Engineering student with a deep interest in how things work under the hood, it whether its a processor
+I'm an Electronics-n-Communication Engineering student with a deep interest in how things work under the hood, whether its a processor
 pipeline, Computer Architecture(x86, ARM, RISC-V), an FPGA, or CUDA kernels. I love building stuff from scratch, breaking down and
 understanding each and every layer of it hardware/software and from high to low level programming.
 
