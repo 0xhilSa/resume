@@ -1,0 +1,51 @@
+body{
+  max-width: 1000px;
+  margin: 0 auto;
+  user-select: none;
+  font-family: monospace;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.name{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  color: coral;
+}
+
+.links{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.links a{
+  color: #e0e0e0;
+  text-decoration: none;
+}
+
+.links a:hover{
+  text-decoration: underline;
+  color: coral;
+}
+
+.obj{
+  font-size: 20px;
+}
+
+.obj .strong{
+  color: coral;
+}
+
+.edu{
+  font-size: 20px;
+}
+
+.skills{
+  font-size: 20px;
+}
+
